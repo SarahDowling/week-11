@@ -8,5 +8,10 @@ html {
 }
 
 .masthead {
-	background-image: url("../images/logo.svg")
+	padding-top: 6em;
+	background-image: url("../img/logo.svg");
+	background-size: 75px auto;
+	background-repeat: no-repeat;
+	background-position: center 10px;
+	text-align: center;
 }
